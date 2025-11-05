@@ -75,3 +75,4 @@ Plugins/**/Intermediate/*
 DerivedDataCache/*
 /rb_project/Intermediate
 /rb_project/Saved
+"Binaries/" 
